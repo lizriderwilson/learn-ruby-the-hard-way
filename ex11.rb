@@ -6,4 +6,4 @@ age = gets.chomp.to_i
 # weight = gets
 
 # puts "So, you're #{age} old, #{height} tall and #{weight} heavy."
-puts "Nex year, you will turn #{age + 1}."
+puts "Next year, you will turn #{age + 1}."
